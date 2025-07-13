@@ -2,9 +2,9 @@ import React from 'react'
 
 const Page = () => {
   return (
-    <div className='h-screen w-screen'>
+    <main className='wrapper page'>
       <h1 className='font-karla text-3xl'>Welcome to the LOOM Clone</h1>
-    </div>
+    </main>
   )
 }
 

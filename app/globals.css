@@ -299,6 +299,7 @@
       @apply border border-gray-20 rounded-18 text-dark-100 placeholder:text-gray-100 py-2.5 px-4.5 focus:outline-pink-100 placeholder:font-medium text-base font-semibold;
     }
   }
+
   /* navbar */
   .navbar {
     @apply h-[90px] border-b border-gray-20 flex items-center;
